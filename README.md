@@ -1,3 +1,3 @@
-#React Native Geomap
+# React Native Geomap
 
 School project
